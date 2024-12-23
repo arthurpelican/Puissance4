@@ -1,0 +1,11 @@
+Pour chaque combat : utiliser le multiprocessing pour realiser les deux matchs en meme temps
+
+Pour les tournois : utiliser le multiprocessing pour realiser les matchs de maniere optimale
+
+Elagage alpha beta
+
+Optimiser les fonctions du prof :
+	- checkwin : regex ? (peut etre necessaire de changer la representation)
+	- minimax : 
+	- meilleur_coup : 
+	- 
